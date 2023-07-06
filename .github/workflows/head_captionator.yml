@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Captionator'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_308DC92C507845099D0A3B477C50C25D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AACA01F52C8C43DF8268302A214D56E0 }}
